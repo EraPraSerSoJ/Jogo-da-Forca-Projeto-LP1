@@ -1,0 +1,8 @@
+Fácil; João; CARRO, CART, CORACAO; 10
+Fácil; Julio; CORACAO; 5
+Difícil; Izaac; palavra; -4
+Médio; Ramon; PROFESSOR, CASA, DISCORD; 60
+Facil; Catarina;RECHAçAR;0
+Facil; Catarina; ABSTRATO, MARATONA;9
+Dificil; catarina; PARCELA, SUSCITAR; 10
+Facil; aa; CUSTO-BENEFíCIO; 0
